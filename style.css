@@ -1,0 +1,21 @@
+.container{
+    width: 250px;
+    height: 650px;
+    border: 0.5px solid black;
+    border-radius: 30px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(248, 233, 215);
+}
+.button{
+    width: 250px;
+    height: 50px;
+    border-radius: 70px;
+    background-color: white;
+}
+.list{
+    list-style-type: square;
+    line-height: 25px;
+    margin:auto ;
+    /* padding:; */
+}
